@@ -16,9 +16,7 @@ I am a fully certified Artificial Intelligence and Machine Learning Developer fr
 
 - 👯 I'm looking to collaborate on open source projects
 - 👨🏽‍💻 I'm currently working on creating a business meeting report summarization app with NLP
-- :mailbox: How to reach me: <a href="www.linkedin.com/in/adedamola-babayato">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
 
 ---
 

@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 
-I am a fully certified Artificial Intelligence and Machine Learning Developer from Nigeria. Insatiable intellectual curiosity and ability to mind hidden gems located within large sets of structred, semi-structured, and raw data. Team-oriented individual with strengths in analytical problem solving and collaborating across diverse groups. I have experience in building machine learning models(Classification, regression and Computer Vision). 
+I am a fully certified Artificial Intelligence and Machine Learning Developer from Nigeria. Possess an insatiable intellectual curiosity and ability to find hidden gems located within large sets of structred, semi-structured, and raw data. Team-oriented individual with strengths in analytical problem solving and collaborating across diverse groups. I have experience in building machine learning models(Classification, regression and Computer Vision). 
 
 - 👯 I'm looking to collaborate on open source projects
 - 👨🏽‍💻 I'm working on creating a business meeting report summarization app with NLP
